@@ -1,0 +1,17 @@
+# Release artifacts / local package files
+*.zip
+*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime data
+securitywatch/reports/
+securitywatch/trivy-cache/
+securitywatch/state/
+securitywatch/cron.log
+
+# Optional local secrets
+securitywatch/.env
+securitywatch/.smtp_pass
