@@ -5,7 +5,7 @@ Community-Lösung für UGREEN NAS mit UGOS zur Prüfung von Host-Dateisystem und
 Community solution for UGREEN NAS systems running UGOS to scan the host filesystem and Docker images with Trivy.
 
 
-![SecurityWatch Deutsch](./Screens/Securitywatch.png)
+![SecurityWatch Deutsch](./Screens/SecurityWatch.png)
 
 ![SecurityWatch Deutsch](./Screens/Securitywatch.jpg)
 
